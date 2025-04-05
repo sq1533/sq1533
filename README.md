@@ -1,12 +1,12 @@
 👋 Hi, I’m 든든동규~!<br>
-👋 Hi, I’m Dong-Gyu~!\n\n
+👋 Hi, I’m Dong-Gyu~!<br><br>
 
-I used ...\n
-🐍python/FastAPI API server\n
-🐍python/streamlit Web server\n
-🐍python/selenium Web Handling and crawling\n
-🕸️javascript/HTMX\n\n
+I used ...<br>
+🐍python/FastAPI API server<br>
+🐍python/streamlit Web server<br>
+🐍python/selenium Web Handling and crawling<br>
+🕸️javascript/HTMX<br><br>
 
-I learning ...\n
-☁️cloud Service ex)firebase, GCP\n
-🐋Docker > container, build ...\n
+I learning ...<br>
+☁️cloud Service ex)firebase, GCP<br>
+🐋Docker > container, build ...<br>
